@@ -1,0 +1,22 @@
+{
+  "noticias": [
+    {
+      "id": "1",
+      "titulo": "Avanços na energia limpa revolucionam o setor",
+      "texto": "Novas tecnologias em energia renovável estão transformando o mercado global, com investimentos recordes em projetos de sustentabilidade.",
+      "imagem": "/imagens/energia-limpa.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Startup lança veículo autônomo revolucionário",
+      "texto": "Um novo carro elétrico autônomo promete reduzir drasticamente acidentes e emissões de carbono, inaugurando uma nova era na mobilidade urbana.",
+      "imagem": "/imagens/veiculo-autonomo.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Exploração submarina revela ecossistemas desconhecidos",
+      "texto": "Pesquisadores encontram formas de vida únicas em áreas profundas do oceano, lançando luz sobre biodiversidade ainda pouco explorada.",
+      "imagem": "/imagens/exploracao-submarina.jpg"
+    }
+  ]
+}
